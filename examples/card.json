@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "cipher": "Шеннон/XOR, система двух РСЛОС",
+  "alphabet": "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+  "key": {
+    "register1": {
+      "polynomial_row": 7,
+      "seed": "10101"
+    },
+    "register2": {
+      "polynomial_row": 5,
+      "seed": "1001"
+    }
+  },
+  "scrambler1": "00101",
+  "scrambler2": "0011",
+  "ciphertext": "ЛЩЫНЧЗЗРЦАЫРКОСРФЛЕЧЮЕЫЗЖЧЪЯГТЯМЧЧГМПЮЖСАОЗКТЛВЦВЕИЩПАИ"
+}
